@@ -1,1 +1,2 @@
 가나다
+merge test1 from 6
